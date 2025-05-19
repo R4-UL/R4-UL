@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm Raúl Corominas</h1>
-<h3 align="center">A passionate developer from Spain</h3>
+<h1 align="center">Hi, I'm Raúl Corominas</h1>
 <div align="center">
   <img src="https://img.shields.io/badge/Android Studio-3DDC84?logo=androidstudio&logoColor=black&style=for-the-badge" height="40" alt="androidstudio logo"  />
   <img width="12" />
